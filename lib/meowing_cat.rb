@@ -10,3 +10,5 @@ end## code your solution here.
 
 maru = Cat.new
 maru.meow
+maru.name = "maru"
+puts maru.name
